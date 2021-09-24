@@ -1,7 +1,7 @@
 # Installation
 
 ```shell
-git clone https://github.com/happyharrycn/video_analysis.git
+https://github.com/2020aptx4869lm/Forecasting-Human-Object-Interaction-in-FPV.git
 ```
 
 ## Requirements
